@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+video-summary-output/
+work/
+*.mp3
+*.mp4
+*.m4a
+*.webm
+*.wav
+*.cookies
+cookies.txt
+*.srt
+*.vtt
+*.json3
+*.opus
